@@ -33,6 +33,7 @@ p {
 }
 #copyright {
   font-size: 11px;
+  text-align: left;
   color: white;
   background-color: dimgray;
 }
