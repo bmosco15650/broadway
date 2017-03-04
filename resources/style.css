@@ -10,7 +10,6 @@ body {
 .nav {
   font-size: 18px;
   color: white;
-  font-style: underline;
 }
 #h2 {
   font-size: 32px;
@@ -23,7 +22,7 @@ body {
   color: black;
 }
 p {
-  font-size: 14px;
+  font-size: 16px;
   color: black;
 }
 .designed {
@@ -32,7 +31,7 @@ p {
   color: white;
 }
 #copyright {
-  font-size: 11px;
+  font-size: 12px;
   text-align: left;
   color: white;
   background-color: dimgray;
